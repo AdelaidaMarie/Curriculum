@@ -1,0 +1,19 @@
+body {
+background-image: url('R.jpg');
+margin:0;
+background-size: cover;
+}
+h1 {
+	font-size: 50px;
+	text-align: center;
+    font-family: georgia;
+	color: white;
+}
+div {
+background-color: rgba(0, 0, 0, 0.75);
+font-family: georgia;
+color: white;
+opacity: 25;
+position:relative; margin:0 auto; width:960px;
+text-align: center;
+}
